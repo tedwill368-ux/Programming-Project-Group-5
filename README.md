@@ -90,8 +90,7 @@ airline_management_system/
 ├── flights.py
 ├── bookings.py
 ├── README.md
-├── tests/
-│   └── test_system.py
+├── test
 └── data/
     ├── passengers.csv
     ├── flights.csv
